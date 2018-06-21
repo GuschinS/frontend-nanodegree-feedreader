@@ -2,9 +2,9 @@
 
 ## Table of Contents
 
-* [Project Overview](#project_overview)
-* [How to Run Appilcation](#how_to_run_appilcation)
-* [Tests that have been implemented](#tests_that_have_been_implemented)
+* [Project Overview](#project-overview)
+* [How to Run Appilcation](#how-to-run_appilcation)
+* [Tests that have been implemented](#tests-that-have-been-implemented)
 
 ## Project Overview
 
