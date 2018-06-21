@@ -12,12 +12,6 @@ Udacity Front-End Web Developer Nano-Degree Exploring-JS project. Test the Feed-
 
 ## How to Run Appilcation
 
-### Live
-
-You just need to click on the [link](https://guschins.github.io/frontend-nanodegree-feedreader/) to Run Appilcation!
-
-### Loсal
-
 Clone or download this repository and open index.html in your favorite browser to Run Appilcation!
 
 ## Tests that have been implemented
