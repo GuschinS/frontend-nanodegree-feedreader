@@ -25,5 +25,5 @@ Clone or download this repository and open index.html in your favorite browser t
   - Test that ensures the menu changes visibility when the menu icon is clicked. This test has two expectations: whether the menu is displayed when pressed and hidden when you click again
 - Test suite named `"Initial Entries"`:
   - Test that ensures when the `loadFeed` function is called and completes its work, there is at least a single `.entry` element within the `.feed` container.
-  - Test suite named `"New Feed Selection"`
+- Test suite named `"New Feed Selection"`:
   - Test that ensures when a new feed is loaded by the `loadFeed` function that the content actually changes
