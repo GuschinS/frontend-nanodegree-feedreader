@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Project Overview](#project-overview)
-* [How to Run Appilcation](#how-to-run_appilcation)
+* [How to Run Appilcation](#how-to-run-appilcation)
 * [Tests that have been implemented](#tests-that-have-been-implemented)
 
 ## Project Overview
